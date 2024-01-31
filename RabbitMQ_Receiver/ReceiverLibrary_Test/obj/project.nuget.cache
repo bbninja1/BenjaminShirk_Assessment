@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+01iljqL6rtNGChrBty5tVmmVKoDY5d1Tnxp/GUKkaIH7GgnrgMpUiA1PdHAZxrgI3nfjCL0Z1Y52ItnJPyUzQ==",
+  "dgSpecHash": "D+GKpcvCc4f66GIkWa+vzd4LJoitkNJ8HA0trjDtdA4ttZGHEcO1oJHNC25NajTP/ReKy32pzncJ3FqsdSIXaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\ReceiverLibrary_Test\\ReceiverLibrary_Test.csproj",
+  "projectFilePath": "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\ReceiverLibrary_Test\\ReceiverLibrary_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benjamin\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\Benjamin\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj": {}
+    "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj": {
+    "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj",
+        "projectUniqueName": "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj",
         "projectName": "RabbitMQ_Library",
-        "projectPath": "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj",
+        "projectPath": "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\RabbitMQ_Library\\RabbitMQ_Library.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benjamin\\source\\repos\\RabbitMQ_Receiver\\RabbitMQ_Library\\obj\\",
+        "outputPath": "C:\\Users\\Benjamin\\source\\repos\\BenjaminShirk_Assessment\\RabbitMQ_Receiver\\RabbitMQ_Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
