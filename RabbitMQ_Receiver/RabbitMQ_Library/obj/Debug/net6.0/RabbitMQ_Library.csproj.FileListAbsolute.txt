@@ -1,0 +1,12 @@
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\bin\Debug\net6.0\RabbitMQ_Library.deps.json
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\bin\Debug\net6.0\RabbitMQ_Library.dll
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\bin\Debug\net6.0\RabbitMQ_Library.pdb
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.dll
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\refint\RabbitMQ_Library.dll
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\RabbitMQ_Library.pdb
+C:\Users\Benjamin\source\repos\RabbitMQ_Receiver\RabbitMQ_Library\obj\Debug\net6.0\ref\RabbitMQ_Library.dll
