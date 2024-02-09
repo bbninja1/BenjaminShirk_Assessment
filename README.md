@@ -2,6 +2,7 @@ Benjamin Shirk Assessment ReadME
 --------------------------------
 
 This assessment has 2 console applications. (.NET 6)
+Visual Studio Application
 -------------------------------------------
 
 1. RabbitMQ_Sender
